@@ -1,8 +1,5 @@
 # loop
-c= 10
-while c >= 1:
-    print(c)
-    c -= 1
-    
-
-   
+v= 1 
+while v <= 100:
+    print(v)
+    v += 1
