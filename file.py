@@ -1,5 +1,5 @@
 # loop
-v= 1 
-while v <= 100:
+v= 100 
+while v <= 1:
     print(v)
-    v += 1
+    v -= 1
