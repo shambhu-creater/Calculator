@@ -1,5 +1,8 @@
 # loop
-c= 1
-while c <= 10:
+c= 10
+while c >= 1:
     print(c)
-    c += 1
+    c -= 1
+    
+
+   
