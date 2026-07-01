@@ -1,5 +1,5 @@
-# loop
-v= 100 
-while v <= 1:
-    print(v)
-    v -= 1
+a= int (input("enter a number: "))
+i=1
+while i <= 10:
+    print(a*i)
+    i=i+1
