@@ -1,5 +1,5 @@
-a= int (input("enter a number: "))
-i=1
-while i <= 10:
-    print(a**i)
-    i=i+1
+a=1
+i=2
+while a <= 10:
+     print(a**i)
+     a=a+1
